@@ -9,9 +9,12 @@
 ## Technologies utilised:
 ###### HTML5 and CSS3.
 
-# Description of the task completed in this demonstration:
-* Make this ball jump up and down. 
-* The ball will go from top 0px to top 100px.
-* One animation cycle takes half of the second 
+## Description of the task completed in this demonstration:
+* The keyframe name is jump.
 * The animation cycle is infinite. 
-* The keyframe name is jump.# bouncing_ball
+* The goal is to make this ball jump up and down. 
+* The ball goes from 0px to 100px on the y-axis.
+* One animation cycle takes half of the second to complete. 
+* Where traditionally animations are set to 'ease', meaning the animation starts slowly, speeds up in the middle and then finishes slowly. 
+* It did not appear smooth on first impressions, so the Bezier curve has been implimented to improve the animation timing of a ball bouncing.
+* Enjoy!
